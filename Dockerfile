@@ -2,9 +2,9 @@ FROM node:9.11-alpine
 
 RUN apk add --update git
 
-COPY ./Chartbuilder /Chartbuilder
+COPY ./chartbuilder /chartbuilder
 
-WORKDIR Chartbuilder
+WORKDIR chartbuilder
 RUN npm install
 
 EXPOSE 3000
