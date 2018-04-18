@@ -145,7 +145,7 @@ var defaultProps = {
 		chartType: 'xy',
 		title: "",
 		source: "",
-		credit: "KPCC made this with Chartbuilder",
+		credit: "KPCC/Quartz's Chartbuilder",
 		size: "auto"
 	}
 };
