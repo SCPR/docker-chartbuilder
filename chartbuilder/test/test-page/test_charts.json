@@ -153,7 +153,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -237,7 +237,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -397,7 +397,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -531,7 +531,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -650,7 +650,7 @@
           "label": "Others*"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Facebook",
@@ -887,7 +887,7 @@
           "label": "2014"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "2014",
@@ -1044,7 +1044,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -1213,7 +1213,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -1319,7 +1319,7 @@
           "label": "Value"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Number",
@@ -1582,7 +1582,7 @@
           "label": "Female"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Male",
@@ -2015,7 +2015,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -2111,7 +2111,7 @@
           "label": "Number of launches"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Number of launches",
@@ -3716,7 +3716,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -3805,7 +3805,7 @@
           "label": "which one of these sports is your favorite?"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "which one of these sports is your favorite?",
@@ -4970,7 +4970,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -5107,7 +5107,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -5918,7 +5918,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -6068,7 +6068,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -6219,7 +6219,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -6372,7 +6372,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -6492,7 +6492,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -6642,7 +6642,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -7222,7 +7222,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -7619,7 +7619,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -8911,7 +8911,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -8995,7 +8995,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -9386,7 +9386,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -9474,7 +9474,7 @@
           "label": "Other"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Bank loans",
@@ -9599,7 +9599,7 @@
           "label": "H1 2013"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "2010",
@@ -10020,7 +10020,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -10188,7 +10188,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -10356,7 +10356,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -11881,7 +11881,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -13406,7 +13406,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -13614,7 +13614,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -14143,7 +14143,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -14672,7 +14672,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -14829,7 +14829,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -14986,7 +14986,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -15139,7 +15139,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -15233,7 +15233,7 @@
           "label": "Incidence rate (per 100,000)"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Number of air travelers",
@@ -17131,7 +17131,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -18968,7 +18968,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -19481,7 +19481,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -19581,7 +19581,7 @@
           "label": "Number of unicorns"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Number of unicorns",
@@ -19756,7 +19756,7 @@
           "label": "Unicorns if GDP is equal to the US"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Unicorns if GDP is equal to the US",
@@ -19920,7 +19920,7 @@
           "label": "Issues reported in a Washington, D.C. survey, 2008"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Issues reported in a Washington, D.C. survey, 2008",
@@ -20350,7 +20350,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -20759,7 +20759,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -21007,7 +21007,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 1,
       "mobile": {
         "title": ""
@@ -21212,7 +21212,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -21758,7 +21758,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -22003,7 +22003,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 1,
       "mobile": {
         "title": ""
@@ -22198,7 +22198,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -22393,7 +22393,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -22511,7 +22511,7 @@
           "label": "Number of items lacked"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Satisfaction with life",
@@ -22833,7 +22833,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -22967,7 +22967,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -23111,7 +23111,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -23217,7 +23217,7 @@
           "label": "Online"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Radio",
@@ -23382,7 +23382,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -23491,7 +23491,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -23597,7 +23597,7 @@
           "label": "2011"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "2011",
@@ -23906,7 +23906,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -24071,7 +24071,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -24506,7 +24506,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -24671,7 +24671,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -24941,7 +24941,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -26408,7 +26408,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 1,
       "mobile": {
         "title": ""
@@ -27238,7 +27238,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -27508,7 +27508,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -27778,7 +27778,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -27944,7 +27944,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -28110,7 +28110,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -28319,7 +28319,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -28414,7 +28414,7 @@
           "label": "Percentage confident"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Percentage confident",
@@ -28558,7 +28558,7 @@
           "label": "Share of environmental impact"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Share of environmental impact",
@@ -28674,7 +28674,7 @@
           "label": "Spending by industry, 2014"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Spending by industry, 2014",
@@ -28824,7 +28824,7 @@
           "label": "Clients by lobbying issue, 2014"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Clients by lobbying issue, 2014",
@@ -28963,7 +28963,7 @@
           "label": "Share of environmental impact"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Share of environmental impact",
@@ -29074,7 +29074,7 @@
           "label": "Share of total pollution"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Share of total pollution",
@@ -29195,7 +29195,7 @@
           "label": "Share of total pollution"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Share of total pollution",
@@ -29316,7 +29316,7 @@
           "label": "Share of total pollution"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Share of total pollution",
@@ -29436,7 +29436,7 @@
           "label": "Average profit margin in 2013"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Average profit margin in 2013",
@@ -29558,7 +29558,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -29650,7 +29650,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -29809,7 +29809,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -29966,7 +29966,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -30058,7 +30058,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -30150,7 +30150,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -36743,7 +36743,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -40081,7 +40081,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -40232,7 +40232,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -40349,7 +40349,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -40434,7 +40434,7 @@
           "label": "Share of Kering's total pollution"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Share of Kering's total pollution",
@@ -40853,7 +40853,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -40942,7 +40942,7 @@
           "label": "Search 1nterest"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Search 1nterest",
@@ -41276,7 +41276,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -41401,7 +41401,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -44149,7 +44149,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -46982,7 +46982,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 1,
       "mobile": {
         "title": ""
@@ -47090,7 +47090,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -47174,7 +47174,7 @@
           "label": "Probability of an IPO offering in 2015"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Probability of an IPO offering in 2015",
@@ -47296,7 +47296,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -47438,7 +47438,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -47596,7 +47596,7 @@
           "label": "Wealth ($bn)"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Number ('000)",
@@ -47840,7 +47840,7 @@
           "label": "Number (2014)"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Growth (%)",
@@ -48109,7 +48109,7 @@
           "label": "Incapacitated rape"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Forcible rape ",
@@ -48231,7 +48231,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -48381,7 +48381,7 @@
           "label": "Incapacitated rape"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Forcible rape",
@@ -48504,7 +48504,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -48662,7 +48662,7 @@
           "label": "Wealth per capita ('000)"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Wealth per capita ('000)",
@@ -48820,7 +48820,7 @@
           "label": "Wealth per capita ('000)"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Wealth per capita ('000)",
@@ -49181,7 +49181,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -49511,7 +49511,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -50176,7 +50176,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -50438,7 +50438,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -50700,7 +50700,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -50790,7 +50790,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -50941,7 +50941,7 @@
           "label": "Proportion of workers that work from home"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Proportion of workers that work from home",
@@ -51100,7 +51100,7 @@
           "label": "Annual avg salary (millions)"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Annual avg salary (millions)",
@@ -51361,7 +51361,7 @@
           "label": "Annual avg salary (millions)"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Annual avg salary (millions)",
@@ -51615,7 +51615,7 @@
           "label": "Fatal injuries per 100,000 workers"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Fatal injuries per 100,000 workers",
@@ -51814,7 +51814,7 @@
           "label": "Fatal injuries per 100,000 workers"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Fatal injuries per 100,000 workers",
@@ -53500,7 +53500,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -54167,7 +54167,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -54926,7 +54926,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -55234,7 +55234,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -56064,7 +56064,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -56828,7 +56828,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -57588,7 +57588,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -58160,7 +58160,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -58252,7 +58252,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -58375,7 +58375,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -60650,7 +60650,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -60841,7 +60841,7 @@
           "hasDragged": false
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 1,
       "mobile": {
         "title": ""
@@ -61032,7 +61032,7 @@
           "hasDragged": false
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 1,
       "mobile": {
         "title": ""
@@ -61980,7 +61980,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -62065,7 +62065,7 @@
           "label": "Adoprion rate"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Adoprion rate",
@@ -63049,7 +63049,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -64086,7 +64086,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -64245,7 +64245,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -64331,7 +64331,7 @@
           "label": ""
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "",
@@ -64935,7 +64935,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -65498,7 +65498,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -67152,7 +67152,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -67258,7 +67258,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -67362,7 +67362,7 @@
           "label": "March 2015"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "March 2015",
@@ -68293,7 +68293,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -69009,7 +69009,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -69356,7 +69356,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -69532,7 +69532,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -69647,7 +69647,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -69735,7 +69735,7 @@
           "label": "Avg. allocation changes/ year"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Avg. logins/ week",
@@ -69909,7 +69909,7 @@
           "hasDragged": true
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -69990,7 +69990,7 @@
           "label": "Percentage"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Percentage",
@@ -73023,7 +73023,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -73107,7 +73107,7 @@
           "label": "Spring 2014"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Spring 2014",
@@ -73226,7 +73226,7 @@
           "label": "Brand value change"
         }
       ],
-      "numColors": 11,
+      "numColors": 16,
       "data": [
         {
           "name": "Brand value change",
@@ -78749,7 +78749,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -84226,7 +84226,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -85749,7 +85749,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -88874,7 +88874,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -91087,7 +91087,7 @@
           ]
         }
       },
-      "numColors": 11,
+      "numColors": 16,
       "_numSecondaryAxis": 0,
       "mobile": {
         "title": ""
@@ -96484,7 +96484,7 @@
 					"status": "VALID",
 					"valid": true
 			},
-			"numColors": 11,
+			"numColors": 16,
 			"scale": {
 					"dateSettings": {
 							"dateFormat": "auto",

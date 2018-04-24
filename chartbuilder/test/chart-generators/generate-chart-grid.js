@@ -41,7 +41,7 @@ function generateChartGrid(_opts) {
 		_grid: {
 			type: opts.type
 		},
-		numColors: 11,
+		numColors: 16,
 		mobile: {}
 	};
 
